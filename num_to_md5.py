@@ -2,7 +2,7 @@
 Uso: python num_to_md5.py <numero_inicial> <numero_final>
 
 sera gerado ao final do script um arquivo hashes_md5.txt para facilitar o uso ao aplicar wordlists
-para brute force(ex: IDs de usuarios)
+para brute force (ex: IDs de usuarios)
 
 '''
 
